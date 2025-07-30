@@ -4,7 +4,7 @@
 A desktop tool for **Albion Online** players to **analyze and compare chest logs with loot events**.  
 It highlights which items were **deposited into chests (Found)** and which items were **kept or missing (Missing)**.  
 Includes **lazy-loaded item icons**, **filtering**
-
+ Lootlogger : https://github.com/matheussampaio/ao-loot-logger
 ---
 
 ## ✨ Features
