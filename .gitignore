@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Electron / Build Output
+dist/
+release/
+out/
+*.exe
+*.msi
+*.zip
+
+# MacOS
+.DS_Store
+
+# Logs
+logs
+*.log
+logs/*
+debug.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Env files
+.env
+.env.local
