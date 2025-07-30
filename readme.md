@@ -1,5 +1,5 @@
 
-# HOLIGAN Loot Viewer
+# HOLIGAN Loot Viewer V1.0.0
 
 A desktop tool for **Albion Online** players to **analyze and compare chest logs with loot events**.  
 It highlights which items were **deposited into chests (Found)** and which items were **kept or missing (Missing)**.  
