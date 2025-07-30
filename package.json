@@ -2,8 +2,8 @@
   "name": "holigan-loot-viewer",
   "version": "1.0.0",
   "description": "Albion Online chest ve loot log karşılaştırma aracı (HOLİGAN)",
-  "main": "main.js",
-  "author": "Senin İsmin",
+  "main": "app.js",
+  "author": "H4shX",
   "license": "MIT",
   "build": {
     "appId": "com.holigan.lootviewer",
@@ -13,7 +13,7 @@
       "output": "dist"
     },
     "files": [
-      "main.js",
+      "app.js",
       "index.html",
       "renderer.js",
       "compareLoots.js",
